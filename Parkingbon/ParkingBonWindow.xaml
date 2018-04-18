@@ -43,7 +43,7 @@
                 <TextBlock Name="BonInfo">nieuwe bon</TextBlock>
             </StatusBarItem>
         </StatusBar>
-        <Grid Margin="20" Background="Olive">
+        <Grid Margin="20" Background="Magenta">
             <Grid.RowDefinitions>
                 <RowDefinition Height="100"></RowDefinition>
             <RowDefinition Height="30"></RowDefinition>
